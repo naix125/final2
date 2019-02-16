@@ -1,0 +1,148 @@
+Package Report
+
+-----------------------------------------------------------------------------
+Document:
+Name: Howtowebversion.pdf
+Color Mode: RGB color
+Color Profile: none
+Ruler Units: pixels
+Artboard Dimensions: 1028 px x 1982,3185 px
+Show Images in Outline Mode: OFF
+Highlight Substituted Fonts: OFF
+Highlight Substituted Glyphs: OFF
+Preserve Text Editability
+Simulate Colored Paper: OFF
+
+-----------------------------------------------------------------------------
+Spot Color Objects:
+
+-----------------------------------------------------------------------------
+Missing Fonts:NONE
+
+-----------------------------------------------------------------------------
+Protected Fonts that were not packaged:NONE
+
+-----------------------------------------------------------------------------
+Fonts:
+Arial (OTF)
+BPG Nino Mkhedruli (TrueType)
+BPG Nino Mtavruli (TrueType)
+Myriad Pro (OTF)
+
+-----------------------------------------------------------------------------
+Embedded Fonts:
+NONE
+
+-----------------------------------------------------------------------------
+Missing Links:
+NONE
+
+-----------------------------------------------------------------------------
+Linked Images:
+
+C:\Users\Anano\Desktop\how to\Howtowebversion_Folder\Links\Ancient-Roman-Statues-Diadumenos_1024x1024.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1422K, 1024 by 474 pixels
+Dimensions: 452,336 by 201,045 points 
+Resolution: 162,994 by 169,753 pixels per inch
+
+
+C:\Users\Anano\Desktop\how to\Howtowebversion_Folder\Links\Ancient-Roman-Statues-Diadumenos_1024x1024.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1422K, 1024 by 474 pixels
+Dimensions: 452,822 by 199,016 points 
+Resolution: 162,819 by 171,484 pixels per inch
+
+
+C:\Users\Anano\Desktop\how to\Howtowebversion_Folder\Links\Ancient-Roman-Statues-Diadumenos_1024x1024.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1422K, 1024 by 474 pixels
+Dimensions: 940 by 419 points 
+Resolution: 78,434 by 81,451 pixels per inch
+
+
+C:\Users\Anano\Desktop\how to\Howtowebversion_Folder\Links\Ancient-Roman-Statues-Diadumenos_1024x1024.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1422K, 1024 by 474 pixels
+Dimensions: 452,336 by 201,045 points 
+Resolution: 162,994 by 169,753 pixels per inch
+
+
+C:\Users\Anano\Desktop\how to\Howtowebversion_Folder\Links\Ancient-Roman-Statues-Diadumenos_1024x1024.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1422K, 1024 by 474 pixels
+Dimensions: 452,336 by 201,045 points 
+Resolution: 162,994 by 169,753 pixels per inch
+
+
+C:\Users\Anano\Desktop\how to\Howtowebversion_Folder\Links\Ancient-Roman-Statues-Diadumenos_1024x1024.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1422K, 1024 by 474 pixels
+Dimensions: 452,336 by 201,045 points 
+Resolution: 162,994 by 169,753 pixels per inch
+
+
+C:\Users\Anano\Desktop\how to\Howtowebversion_Folder\Links\Ancient-Roman-Statues-Diadumenos_1024x1024.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1422K, 1024 by 474 pixels
+Dimensions: 452,822 by 199,016 points 
+Resolution: 162,819 by 171,484 pixels per inch
+
+
+C:\Users\Anano\Desktop\how to\Howtowebversion_Folder\Links\Ancient-Roman-Statues-Diadumenos_1024x1024.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1422K, 1024 by 474 pixels
+Dimensions: 452,336 by 201,045 points 
+Resolution: 162,994 by 169,753 pixels per inch
+
+
+C:\Users\Anano\Desktop\how to\Howtowebversion_Folder\Links\Ancient-Roman-Statues-Diadumenos_1024x1024.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1422K, 1024 by 474 pixels
+Dimensions: 452,336 by 201,045 points 
+Resolution: 162,994 by 169,753 pixels per inch
+
+
+C:\Users\Anano\Desktop\how to\Howtowebversion_Folder\Links\Ancient-Roman-Statues-Diadumenos_1024x1024.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1422K, 1024 by 474 pixels
+Dimensions: 452,822 by 199,016 points 
+Resolution: 162,819 by 171,484 pixels per inch
+
+
+C:\Users\Anano\Desktop\how to\Howtowebversion_Folder\Links\Ancient-Roman-Statues-Diadumenos_1024x1024.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1422K, 1024 by 474 pixels
+Dimensions: 396,047 by 194,698 points 
+Resolution: 186,16 by 175,287 pixels per inch
+
+
+C:\Users\Anano\Desktop\how to\Howtowebversion_Folder\Links\Ancient-Roman-Statues-Diadumenos_1024x1024.jpg
+Type: RGB
+Bits per Pixel: 24
+Channels: 3
+Size: 1422K, 1024 by 474 pixels
+Dimensions: 700 by 322 points 
+Resolution: 105,326 by 105,988 pixels per inch
